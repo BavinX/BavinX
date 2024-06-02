@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @BavinX
-- 👀 I’m interested in ...AI and Trading 
+- 👀 I’m interested in ...AI,Trading and also Marketing 
 - 🌱 I’m currently learning ...Python 
